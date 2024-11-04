@@ -5,7 +5,7 @@ import requests
 from io import BytesIO
 
 # AccuWeather API Key
-API_KEY = "23TGz7u14QUgoAiXv6LD3qjnETJa3Aib"
+API_KEY = "<Get API Key from https://developer.accuweather.com/>"
 
 # Function to download and display the weather icons
 def download_and_display_icon(icon_number):
